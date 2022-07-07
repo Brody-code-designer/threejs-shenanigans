@@ -2,6 +2,6 @@
   "name": "threejs-shenanigans",
   "version": "1.0.0",
   "dependencies": {
-    
+    "three": "^0.130.1"
   }
 }
